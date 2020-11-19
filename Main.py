@@ -7,7 +7,7 @@ win = pygame.display.set_mode((800, 400))
 
 pygame.display.set_caption("multiplayer game")
 
-os.chdir("C:\\Users\\Acer\\Desktop\\CV\\game\\char")
+os.chdir("Path...\\char")
 
 walkRight = [pygame.image.load('R1.png'), pygame.image.load('R2.png'), pygame.image.load('R3.png'),
              pygame.image.load('R4.png'), pygame.image.load('R5.png'), pygame.image.load('R6.png'),
